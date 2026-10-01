@@ -13,7 +13,7 @@
 | [一九四八](https://github.com/xing0325/shannon) | 以 1948 年印刷品体例讲述信息论、控制论与系统论的交互读本 | [在线阅读](https://xing0325.github.io/shannon/) |
 | [Web Animation Cookbook](https://github.com/xing0325/web-anim-cookbook) | 90 个可直接拆用的高级 Web 动效 demo，加一个综合旗舰示例 | [浏览动效](https://xing0325.github.io/web-anim-cookbook/) |
 | [活在真实中](https://github.com/xing0325/china-truth-graph) | 中国近现代禁书、异见者、事件与概念的可视化知识图谱 | [打开图谱](https://xing0325.github.io/china-truth-graph/) |
-| [小红书图文预览工作台](https://github.com/xing0325/xiaohongshu-preview) | 把 Agent 产出的 HTML 卡片变成可检查、可导出、可发布的图文包 | [在线预览](https://xing0325.github.io/xiaohongshu-preview/) |
+| [小红书图文预览工作台](https://github.com/xing0325/xiaohongshu-preview) | 把 Agent 产出的 HTML 卡片变成可检查、可导出、可发布的图文包 | [查看项目](https://github.com/xing0325/xiaohongshu-preview) |
 
 ## Repository map
 
