@@ -20,14 +20,19 @@
 
 | 作品 | 我在探索什么 | 实践与收获 |
 | --- | --- | --- |
-| [国象 × 将棋](https://github.com/xing0325/chess-shogi) | 两套规则能否共存？ | 9×9融合对战；把走子、打入和升变变成具体取舍，平衡仍在探索。 |
-| [拾集 pick.](cases/PICK.md) | 怎样让人愿意整理枯燥资料？ | 滑动、批注、撤销与导出；实际完成95项条目复盘，学习设计低阻力流程。 |
-| [Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity) | 人物性格怎样变成玩法？ | 借鉴《杀戮尖塔》，参与早期角色与卡牌制作，试玩后交接同学；现仓库含后续贡献。 |
-| [KIN](https://github.com/xing0325/kin-hackathon) | Agent如何帮助人在现实中连接？ | 发起并主导整体实现，与团队结合网页和ESP32终端；学习跨软件、硬件与产品流程协作。 |
-| [AI银饰探索](https://github.com/xing0325/anima-rings) | AI创作如何走出屏幕？ | 建模、品牌展示与工艺交流；将先前Blender经验用于新媒介，未宣称量产。 |
-| [LIXON](https://github.com/xing0325/lixon) | 审美如何成为可积累的方法？ | F1个人表达、流体与微动效；从参考拆解走向[可复用动效库](https://github.com/xing0325/web-anim-cookbook)。 |
+| BIBABO | 怎样帮助用户逐步学习 AI 与 Vibe Coding？ | 在 Nxcode 实习中参与探索；将渐进学习、间隔重复与 SuperMemo 研究带入产品方向，学习 GitHub 团队协作。 |
+| [CALLING](https://github.com/xing0325/calling-suishoji) | 意识流输入怎样变成行动与觉察？ | 第一个 Vibe Coding 产品，最初 Demo 用 Manus 制作；整理待办、书影音与情绪，也是自己持续使用的工具。 |
+| [龟谷择校](https://github.com/xing0325/guigu-japan-study) | 怎样让日本学校信息便于浏览和比较？ | 真实商业项目中的择校地图；前端刚完成、尚待打磨，学习让信息呈现与交互服务实际需求。 |
+| [国象 × 将棋](https://github.com/xing0325/chess-shogi) | 两套棋类规则能否共存？ | 第一个 Claude Code 作品；在 9×9 棋盘协调走子、打入与升变，规则与平衡仍在调整。 |
+| 股票时光机 | 游戏怎样融入夏令营的参与节奏？ | 为“第一桶金”理财夏令营制作，已做较完整实现并经过测试；学习配合营期、主持与参与方式，后续希望结合实际数据复盘。 |
+| [地铁跑酷](https://github.com/xing0325/ditie-paoku) | 把“在地铁间跑酷”改成“地铁在跑酷”会怎样？ | 主角是一列地铁，轨道上出现人；把语言幽默变成玩法，已有 Demo，剧情与世界观仍在构思。 |
+| [好奇尖塔 Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity) | 熟悉人物的性格怎样变成技能与卡组？ | 参与早期角色与卡牌制作，经过社区试玩后交接同学；学习人物到机制的转译，现仓库含后续贡献。 |
+| 皇室战争确定性模拟器 | 怎样从规则与数值走到可反复测试的策略？ | 梳理单位数据与规则，尝试搭建自我对战环境并探索人机训练；仍是实验项目。 |
+| [flowcounting-短视频计数器](https://github.com/curbox-app/curbox-android) | 计数能否帮助自己觉察刷短视频的行为？ | 较完整的自用手机应用；从自己的使用习惯出发，探索工具怎样在日常生活中发挥作用。 |
+| [vibe jewelrying](https://github.com/xing0325/anima-rings) | AI 创作怎样走出屏幕、接触实体工艺？ | 尝试用 AI 操作 Blender 设计珠宝并制作展示网站；复用齐马蓝的建模经验，分享后带来设计师与工厂的交流和合作询问。 |
+| [奏折批阅模拟器-类tinder交互让工作变成信息流](cases/PICK.md) | 怎样让枯燥的资料整理更容易开始和持续？ | 滑卡、即时批注、撤销与导出；用本地自用原型复盘了 95 项原始条目，包含项目版本与资料集合。 |
 
-想深入看游戏与创作方法，可以从[三个重点案例](cases/SELECTED.md)开始。想看真实交付，可以看[钥匙玩校](https://github.com/xing0325/kiidschool)、[龟谷择校](https://github.com/xing0325/guigu-japan-study)与下方产品实践。
+想先看游戏，可以从[国象 × 将棋](https://github.com/xing0325/chess-shogi)和[好奇尖塔 Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)开始；想了解我使用 Manus 的起点，可以看 [CALLING](https://github.com/xing0325/calling-suishoji)。[三个重点案例](cases/SELECTED.md)展开介绍了国象 × 将棋、好奇尖塔和奏折批阅模拟器的设计过程；案例中仍可见 Slay the Curiosity、拾集 pick. 等原名。
 
 ## 我的兴趣图谱
 
