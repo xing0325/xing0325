@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1200" viewBox="0 0 760 1200" role="img" aria-label="九组兴趣与代表作品的关联图">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,sans-serif}.t{fill:#eef5ff;font-size:28px;font-weight:700}.h{fill:#eef5ff;font-size:22px;font-weight:650}.b{fill:#c3d0e0;font-size:19px}.s{fill:#9bb0c8;font-size:17px}</style>
+<rect width="760" height="1200" rx="24" fill="#101d2c"/>
+<text x="32" y="49" class="t">兴趣图谱 · 同一种好奇，进入不同媒介</text>
+<rect x="30" y="73" width="700" height="55" rx="12" fill="#23473f"/>
+<text x="53" y="108" class="h">理解机制 → 改动规则 → 做出原型 → 复盘迁移</text>
+<path d="M48 128 V1127" stroke="#73e3cc" stroke-width="2" fill="none"/>
+<path d="M48 195 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="195" r="5" fill="#73e3cc"/>
+<rect x="76" y="148" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="177">前端与视觉交互</text>
+<text class="b" x="97" y="206">拾集 · LIXON · 龟谷择校</text>
+<text class="s" x="97" y="231">让反馈、节奏和视觉服务于人的行动</text>
+<path d="M48 308 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="308" r="5" fill="#73e3cc"/>
+<rect x="76" y="261" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="290">游戏设计与Game AI</text>
+<text class="b" x="97" y="319">国象×将棋 · Slay · 股票时光机</text>
+<text class="s" x="97" y="344">修改预设，把规则变成可玩的体验</text>
+<path d="M48 421 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="421" r="5" fill="#73e3cc"/>
+<rect x="76" y="374" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="403">安全与逆向探索</text>
+<text class="b" x="97" y="432">规则重建与模拟器尝试</text>
+<text class="s" x="97" y="457">理解已有系统；训练效果仍待验证</text>
+<path d="M48 534 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="534" r="5" fill="#73e3cc"/>
+<rect x="76" y="487" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="516">AI活动与游戏化教学</text>
+<text class="b" x="97" y="545">游戏夏令营 · Git课程 · 黑客松工具</text>
+<text class="s" x="97" y="570">让别人也能开始，并完成自己的创作</text>
+<path d="M48 647 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="647" r="5" fill="#73e3cc"/>
+<rect x="76" y="600" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="629">产品系统与心智模型</text>
+<text class="b" x="97" y="658">FCC OS · 好奇Online · CALLING</text>
+<text class="s" x="97" y="683">将角色、权限和需求组织成可理解的流程</text>
+<path d="M48 760 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="760" r="5" fill="#73e3cc"/>
+<rect x="76" y="713" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="742">工具与工作流</text>
+<text class="b" x="97" y="771">拾集 · 小红书工作台 · Agent环境迁移</text>
+<text class="s" x="97" y="796">减少重复阻力，把经验变成可复用方法</text>
+<path d="M48 873 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="873" r="5" fill="#73e3cc"/>
+<rect x="76" y="826" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="855">AI硬件与具身交互</text>
+<text class="b" x="97" y="884">KIN · Cardputer固件 · EDCoder概念</text>
+<text class="s" x="97" y="909">从屏幕走向动作、触感和现实连接</text>
+<path d="M48 986 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="986" r="5" fill="#73e3cc"/>
+<rect x="76" y="939" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="968">AI定制实物</text>
+<text class="b" x="97" y="997">AI银饰 · 建模 · 画册与品牌探索</text>
+<text class="s" x="97" y="1022">把数字设计接到材料、工艺与制作沟通</text>
+<path d="M48 1099 H76" stroke="#73e3cc" stroke-width="2"/>
+<circle cx="48" cy="1099" r="5" fill="#73e3cc"/>
+<rect x="76" y="1052" width="654" height="100" rx="12" fill="#1b2c40"/>
+<text class="h" x="97" y="1081">认知与学习工具</text>
+<text class="b" x="97" y="1110">一九四八 · 大数科普 · 阅读工具</text>
+<text class="s" x="97" y="1135">让抽象知识可探索，让学习更容易开始</text>
+</svg>
