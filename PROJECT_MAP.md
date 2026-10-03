@@ -5,7 +5,7 @@
 ## 规则如何变成体验
 
 - [国象 × 将棋](https://github.com/xing0325/chess-shogi)：在同一棋盘协调不同规则。学到的是把兴趣变成可执行的取舍，平衡性仍需探索。
-- [Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)：在《杀戮尖塔》启发下，把熟悉人物的性格转译成角色与卡牌机制。我参与早期设计与制作，社区试玩后交接给同学；现仓库包含后续开发。
+- [Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)：在《杀戮尖塔》启发下，把熟悉人物的性格转译成角色与卡牌机制。我参与早期设计与制作，社区试玩后交接给同学；现仓库包含后续开发。
 - [地铁跑酷](https://github.com/xing0325/ditie-paoku)：从“人在地铁间跑酷”改成“地铁在跑酷”，用语言上的改写寻找玩法；剧情尚未完成。
 - 股票时光机：为理财夏令营制作的股票选择游戏。真实活动让我考虑营期节奏和参与方式，使用数据分析仍待继续；暂无公开入口。
 

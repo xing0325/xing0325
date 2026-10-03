@@ -26,13 +26,13 @@
 | [国象 × 将棋](https://github.com/xing0325/chess-shogi) | 两套棋类规则能否共存？ | 第一个 Claude Code 作品；在 9×9 棋盘协调走子、打入与升变，规则与平衡仍在调整。 |
 | 股票时光机 | 游戏怎样融入夏令营的参与节奏？ | 为“第一桶金”理财夏令营制作，已做较完整实现并经过测试；学习配合营期、主持与参与方式，后续希望结合实际数据复盘。 |
 | [地铁跑酷](https://github.com/xing0325/ditie-paoku) | 把“在地铁间跑酷”改成“地铁在跑酷”会怎样？ | 主角是一列地铁，轨道上出现人；把语言幽默变成玩法，已有 Demo，剧情与世界观仍在构思。 |
-| [好奇尖塔 Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity) | 熟悉人物的性格怎样变成技能与卡组？ | 参与早期角色与卡牌制作，经过社区试玩后交接同学；学习人物到机制的转译，现仓库含后续贡献。 |
+| [好奇尖塔 Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md) | 熟悉人物的性格怎样变成技能与卡组？ | 参与早期角色与卡牌制作，经过社区试玩后交接同学；学习人物到机制的转译，现仓库含后续贡献。 |
 | 皇室战争确定性模拟器 | 怎样从规则与数值走到可反复测试的策略？ | 梳理单位数据与规则，尝试搭建自我对战环境并探索人机训练；仍是实验项目。 |
-| [flowcounting-短视频计数器](https://github.com/curbox-app/curbox-android) | 计数能否帮助自己觉察刷短视频的行为？ | 较完整的自用手机应用；从自己的使用习惯出发，探索工具怎样在日常生活中发挥作用。 |
+| [flowcounting-短视频计数器](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md) | 计数能否帮助自己觉察刷短视频的行为？ | 个人短视频计数应用探索；目前先展示案例说明，原始工程与安装包待找回。 |
 | [vibe jewelrying](https://github.com/xing0325/anima-rings) | AI 创作怎样走出屏幕、接触实体工艺？ | 尝试用 AI 操作 Blender 设计珠宝并制作展示网站；复用齐马蓝的建模经验，分享后带来设计师与工厂的交流和合作询问。 |
 | [奏折批阅模拟器-类tinder交互让工作变成信息流](cases/PICK.md) | 怎样让枯燥的资料整理更容易开始和持续？ | 滑卡、即时批注、撤销与导出；用本地自用原型复盘了 95 项原始条目，包含项目版本与资料集合。 |
 
-想先看游戏，可以从[国象 × 将棋](https://github.com/xing0325/chess-shogi)和[好奇尖塔 Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)开始；想了解我使用 Manus 的起点，可以看 [CALLING](https://github.com/xing0325/calling-suishoji)。[三个重点案例](cases/SELECTED.md)展开介绍了国象 × 将棋、好奇尖塔和奏折批阅模拟器的设计过程；案例中仍可见 Slay the Curiosity、拾集 pick. 等原名。
+想先看游戏，可以从[国象 × 将棋](https://github.com/xing0325/chess-shogi)和[好奇尖塔 Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)开始；想了解我使用 Manus 的起点，可以看 [CALLING](https://github.com/xing0325/calling-suishoji)。[三个重点案例](cases/SELECTED.md)展开介绍了国象 × 将棋、好奇尖塔和奏折批阅模拟器的设计过程；案例中仍可见 Slay the Curiosity、拾集 pick. 等原名。
 
 ## 我的兴趣图谱
 
@@ -101,7 +101,7 @@
 
 - **[late-penalty](https://github.com/xing0325/late-penalty)**：把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
-- **[Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)**：把熟悉人物的性格映射为角色、技能与卡组，发现自己对机制设计有强烈热情；试玩反馈和交接同学构成真实迭代经历。
+- **[Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)**：把熟悉人物的性格映射为角色、技能与卡组，发现自己对机制设计有强烈热情；试玩反馈和交接同学构成真实迭代经历。
 
 [这一兴趣下的完整说明](CATALOG.md#interest-1)
 
@@ -136,7 +136,7 @@
 
 - **[late-penalty](https://github.com/xing0325/late-penalty)**：把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
-- **[Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)**：把熟悉人物的性格映射为角色、技能与卡组，发现自己对机制设计有强烈热情；试玩反馈和交接同学构成真实迭代经历。
+- **[Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)**：把熟悉人物的性格映射为角色、技能与卡组，发现自己对机制设计有强烈热情；试玩反馈和交接同学构成真实迭代经历。
 
 [这一兴趣下的完整说明](CATALOG.md#interest-2)
 
@@ -182,7 +182,7 @@
 
 - **[late-penalty](https://github.com/xing0325/late-penalty)**：把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
-- **[Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)**：把熟悉人物的性格映射为角色、技能与卡组，发现自己对机制设计有强烈热情；试玩反馈和交接同学构成真实迭代经历。
+- **[Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)**：把熟悉人物的性格映射为角色、技能与卡组，发现自己对机制设计有强烈热情；试玩反馈和交接同学构成真实迭代经历。
 
 - **[黑客松展厅与投票中心](https://github.com/xing0325/manycore-hackathon-voting-hub)**：把助教现场遇到的提交、展示与投票需求做成流程。学到：组织经验可以转化为让参与者看见彼此作品的工具。
 
@@ -199,7 +199,7 @@
 
 - **[龟谷日本留学学校地图](https://github.com/xing0325/guigu-japan-study)**：真实商业需求给交互设计提供约束，页面要服务择校任务，而不仅是视觉偏好。
 
-- **[止刷 · Curbox／Calling 三番战](https://github.com/curbox-app/curbox-android)**：把自用需求推进到手机产品，并开始思考付费价值；准备售卖不等于已经获得收入。
+- **[止刷 · Curbox／Calling 三番战](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md)**：把自用需求推进到手机产品，并开始思考付费价值；准备售卖不等于已经获得收入。
 
 - **Deota 黑客松 Agent 协作平台（暂无公开入口）**：黑客松反馈推动方向从实体Agent连接转向垂直场景协作；早期账号与环境迁移经验能转化为新的产品结构。 同线索：[KIN Agent 社交网络与实体终端](https://github.com/xing0325/kin-hackathon)、[kin-agent-connect](https://github.com/xing0325/kin-agent-connect)。
 
@@ -242,7 +242,7 @@
 
 - **[拾集 pick.](cases/PICK.md)**：把作品整理变成逐张判断、批注与导出。学到：轻快的操作要与撤销、待定、恢复一起设计；已完成95项条目的自用复盘。
 
-- **[止刷 · Curbox／Calling 三番战](https://github.com/curbox-app/curbox-android)**：把自用需求推进到手机产品，并开始思考付费价值；准备售卖不等于已经获得收入。
+- **[止刷 · Curbox／Calling 三番战](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md)**：把自用需求推进到手机产品，并开始思考付费价值；准备售卖不等于已经获得收入。
 
 - **Deota 黑客松 Agent 协作平台（暂无公开入口）**：黑客松反馈推动方向从实体Agent连接转向垂直场景协作；早期账号与环境迁移经验能转化为新的产品结构。 同线索：[kin-agent-connect](https://github.com/xing0325/kin-agent-connect)。
 
@@ -329,7 +329,7 @@
 <details>
 <summary><strong>认知与学习工具</strong> · 12条探索线</summary>
 
-- **[止刷 · Curbox／Calling 三番战](https://github.com/curbox-app/curbox-android)**：把自用需求推进到手机产品，并开始思考付费价值；准备售卖不等于已经获得收入。
+- **[止刷 · Curbox／Calling 三番战](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md)**：把自用需求推进到手机产品，并开始思考付费价值；准备售卖不等于已经获得收入。
 
 - **[calling-suishoji](https://github.com/xing0325/calling-suishoji)**：从自己的使用需求出发，把意识流输入转成行动与觉察；同时认识到自用价值不自动等于普遍市场需求。
 

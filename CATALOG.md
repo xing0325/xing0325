@@ -296,7 +296,7 @@ HTML卡片版式实验是小红书工作流的子项目，作为输出质量探�
 
 **证据状态：** 当前未提供可公开访问的代码或演示，以上来自个人复盘。
 
-### [Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)
+### [Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)
 
 **项目线：** `slay-the-curiosity` · **展示层级：** A
 
@@ -396,7 +396,7 @@ HTML卡片版式实验是小红书工作流的子项目，作为输出质量探�
 
 把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
-### [Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)
+### [Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)
 
 **项目线：** `slay-the-curiosity` · **展示层级：** A
 
@@ -540,7 +540,7 @@ HTML卡片版式实验是小红书工作流的子项目，作为输出质量探�
 
 把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
-### [Slay the Curiosity](https://github.com/AGdafu/slay-the-curiosity)
+### [Slay the Curiosity](https://github.com/xing0325/xing0325/blob/main/cases/SLAY.md)
 
 **项目线：** `slay-the-curiosity` · **展示层级：** A
 
@@ -566,7 +566,7 @@ HTML卡片版式实验是小红书工作流的子项目，作为输出质量探�
 
 真实商业需求给交互设计提供约束，页面要服务择校任务，而不仅是视觉偏好。
 
-### [止刷 · Curbox／Calling 三番战](https://github.com/curbox-app/curbox-android)
+### [止刷 · Curbox／Calling 三番战](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md)
 
 **项目线：** `calling-curbox` · **展示层级：** B
 
@@ -724,7 +724,7 @@ KIN的另一个原型，收获归到KIN项目线，归在同一项目的演进�
 <a id="interest-6"></a>
 ## 工具与工作流
 
-### [止刷 · Curbox／Calling 三番战](https://github.com/curbox-app/curbox-android)
+### [止刷 · Curbox／Calling 三番战](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md)
 
 **项目线：** `calling-curbox` · **展示层级：** B
 
@@ -1058,7 +1058,7 @@ KIN的另一个原型，收获归到KIN项目线，归在同一项目的演进�
 <a id="interest-9"></a>
 ## 认知与学习工具
 
-### [止刷 · Curbox／Calling 三番战](https://github.com/curbox-app/curbox-android)
+### [止刷 · Curbox／Calling 三番战](https://github.com/xing0325/xing0325/blob/main/cases/FLOWCOUNTING.md)
 
 **项目线：** `calling-curbox` · **展示层级：** B
 
