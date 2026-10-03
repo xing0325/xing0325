@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1002" viewBox="0 0 760 1002" role="img" aria-label="成长路径：一次尝试如何进入下一次">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,sans-serif}.t{fill:#edf5ff;font-size:30px;font-weight:700}.s{fill:#a9b9ce;font-size:17px}.h{fill:#edf5ff;font-size:22px;font-weight:650}.b{fill:#c2d0df;font-size:18px}.n{fill:#73e3cc;font-size:19px;font-weight:700}</style>
+<rect width="760" height="1002" rx="24" fill="#101d2c"/>
+<text class="t" x="34" y="53">成长路径：一次尝试如何进入下一次</text>
+<text class="s" x="34" y="88">箭头表示有依据的经验迁移，不表示全部项目的发生顺序</text>
+<rect x="24" y="118" width="712" height="126" rx="16" fill="#1b2c40"/>
+<text class="n" x="43" y="153">01</text>
+<text class="h" x="86" y="153">从兴趣到可玩的规则</text>
+<text class="b" x="43" y="191">长期棋类兴趣 → 国象×将棋 → 规则拆解课程</text>
+<text class="s" x="43" y="220">从自己做游戏，到帮助初学者开始创作</text>
+<rect x="24" y="260" width="712" height="126" rx="16" fill="#1b2c40"/>
+<text class="n" x="43" y="295">02</text>
+<text class="h" x="86" y="295">从失败到跨媒介尝试</text>
+<text class="b" x="43" y="333">齐马蓝的Blender尝试 → AI银饰建模与工艺交流</text>
+<text class="s" x="43" y="362">未达到目标的实验，也可能留下可迁移的方法</text>
+<rect x="24" y="402" width="712" height="126" rx="16" fill="#1b2c40"/>
+<text class="n" x="43" y="437">03</text>
+<text class="h" x="86" y="437">从误解到产品理解</text>
+<text class="b" x="43" y="475">账号记录迁移 → Agent环境思路 → KIN</text>
+<text class="s" x="43" y="504">先弄清存储与上下文，再设计人与Agent的连接</text>
+<rect x="24" y="544" width="712" height="126" rx="16" fill="#1b2c40"/>
+<text class="n" x="43" y="579">04</text>
+<text class="h" x="86" y="579">从交付到方法沉淀</text>
+<text class="b" x="43" y="617">钥匙玩校首个付费项目 · FCC商业SaaS · 课堂产品</text>
+<text class="s" x="43" y="646">学会需求沟通、前端原型、反复测试与视觉反馈</text>
+<rect x="24" y="686" width="712" height="126" rx="16" fill="#1b2c40"/>
+<text class="n" x="43" y="721">05</text>
+<text class="h" x="86" y="721">从个人创作到外部交流</text>
+<text class="b" x="43" y="759">小红书工作流与首个Star · 黑客松 · 教学</text>
+<text class="s" x="43" y="788">作品说明、协作与交接，也是创作的一部分</text>
+<rect x="24" y="828" width="712" height="126" rx="16" fill="#1b2c40"/>
+<text class="n" x="43" y="863">06</text>
+<text class="h" x="86" y="863">从资料堆积到主动复盘</text>
+<text class="b" x="43" y="901">简历滑动筛选的交互思路 → 拾集作品筛选</text>
+<text class="s" x="43" y="930">2026年10月3日：完成95项筛选，留下89条批注</text>
+</svg>
