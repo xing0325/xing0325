@@ -356,7 +356,9 @@
 
 ## 成长里程碑
 
-[![成长赛道：八个进步与感悟节点，配有棋盘、银戒指、Cardputer 等项目插画](assets/growth-racetrack.jpg)](assets/growth-racetrack.jpg)
+[![我的第一次，与那些转弯：20 个具体的开始、尝试与感悟，沿赛道展开](assets/growth-firsts.jpg)](assets/growth-firsts.jpg)
+
+[放大阅读：20 个第一次与转折](assets/growth-firsts.jpg)
 
 <details>
 <summary><strong>展开我的第一次与认知转折</strong></summary>
