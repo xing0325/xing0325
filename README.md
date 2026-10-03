@@ -92,7 +92,7 @@
 
 - **[hezi-vs-zhongdeng](https://github.com/xing0325/hezi-vs-zhongdeng)**：把个人站流体技术复用到人物内容，验证同一交互在不同语境中的传播潜力；相关视频12万点赞为我的个人反馈记录。
 
-- **[FCC OS](https://github.com/CallaGong/fccos)**：第一次商业SaaS实践中参与架构设计、需求拆解和跨角色沟通；画板是展示思考过程的重要证据。
+- **FCC OS（暂无公开入口）**：第一次商业SaaS实践中参与架构设计、需求拆解和跨角色沟通；画板是展示思考过程的重要证据。
 
 - **[late-penalty](https://github.com/xing0325/late-penalty)**：把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
@@ -173,7 +173,7 @@
 
 - **[dengweir-shop](https://github.com/xing0325/dengweir-shop)**：把网页变成戏剧现场与观众互动的道具，学习让技术服务表演语境。
 
-- **[BIBABO](https://github.com/vivian-nxcode/bibabo-app)**：第一份实习中学习GitHub团队协作，认识到简单功能也需要反复打磨；个人负责模块仍需补充。
+- **BIBABO（暂无公开入口）**：第一份实习中学习GitHub团队协作，认识到简单功能也需要反复打磨；个人负责模块仍需补充。
 
 - **[late-penalty](https://github.com/xing0325/late-penalty)**：把迟到管理设计为带随机性的参与机制，让规则有执行力又保留社团氛围；这是小而具体的游戏化设计。
 
@@ -220,9 +220,9 @@
 
 - **[hezi-vs-zhongdeng](https://github.com/xing0325/hezi-vs-zhongdeng)**：把个人站流体技术复用到人物内容，验证同一交互在不同语境中的传播潜力；相关视频12万点赞为我的个人反馈记录。
 
-- **[BIBABO](https://github.com/vivian-nxcode/bibabo-app)**：第一份实习中学习GitHub团队协作，认识到简单功能也需要反复打磨；个人负责模块仍需补充。
+- **BIBABO（暂无公开入口）**：第一份实习中学习GitHub团队协作，认识到简单功能也需要反复打磨；个人负责模块仍需补充。
 
-- **[FCC OS](https://github.com/CallaGong/fccos)**：第一次商业SaaS实践中参与架构设计、需求拆解和跨角色沟通；画板是展示思考过程的重要证据。
+- **FCC OS（暂无公开入口）**：第一次商业SaaS实践中参与架构设计、需求拆解和跨角色沟通；画板是展示思考过程的重要证据。
 
 - **Obsidian 规划可视化（暂无公开入口）**：为了本地统一规划而自建插件，最后选择第三方工具；学会权衡适我化需求和继续开发的成本。
 
@@ -275,9 +275,9 @@
 
 - **[odysseus-zh-CN](https://github.com/xing0325/odysseus-zh-CN)**：通过页面汉化和测试降低使用门槛，并参与开源传播；“全网首个汉化”尚未外部核实，不作公开断言。
 
-- **[BIBABO](https://github.com/vivian-nxcode/bibabo-app)**：第一份实习中学习GitHub团队协作，认识到简单功能也需要反复打磨；个人负责模块仍需补充。
+- **BIBABO（暂无公开入口）**：第一份实习中学习GitHub团队协作，认识到简单功能也需要反复打磨；个人负责模块仍需补充。
 
-- **[FCC OS](https://github.com/CallaGong/fccos)**：第一次商业SaaS实践中参与架构设计、需求拆解和跨角色沟通；画板是展示思考过程的重要证据。
+- **FCC OS（暂无公开入口）**：第一次商业SaaS实践中参与架构设计、需求拆解和跨角色沟通；画板是展示思考过程的重要证据。
 
 - **Obsidian 规划可视化（暂无公开入口）**：为了本地统一规划而自建插件，最后选择第三方工具；学会权衡适我化需求和继续开发的成本。
 
