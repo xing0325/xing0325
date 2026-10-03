@@ -31,7 +31,7 @@
 
 ## 我的兴趣图谱
 
-![兴趣图谱：从问题进入作品](assets/interests.svg)
+[![兴趣星云：以好奇心连接九组兴趣与代表作品](assets/interests-nebula.jpg)](assets/interests-nebula.jpg)
 
 下面按原有九组兴趣展开。一个项目可以关联多个兴趣；同一作品线的版本和子模块会注明，避免把仓库数量当成作品数量。图谱可点击放大，展开项和[完整目录](CATALOG.md)提供链接与学习收获。
 
